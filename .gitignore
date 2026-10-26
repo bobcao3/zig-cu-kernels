@@ -1,0 +1,10 @@
+.venv/
+.scratch/
+.zig-cache/
+zig-out/
+zig-out-*/
+build/
+dist/
+*.egg-info/
+__pycache__/
+src/zig_cu_kernels/cubin/
